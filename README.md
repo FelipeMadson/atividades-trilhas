@@ -1,5 +1,6 @@
 # Atividades Trilhas
 
-Atividades do curso de Lógica de Programação com JavaScript, organizadas em pastas.
+Atividades dos cursos do programa Trilhas, organizadas em pastas.
 
 - [Primeira atividade: O Patch de Atualização](primeira-atividade)
+- [Segunda atividade: Casa em Chamas](segunda-atividade)
