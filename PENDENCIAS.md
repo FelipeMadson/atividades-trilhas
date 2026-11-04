@@ -4,7 +4,7 @@ Conferência em 04/11/2026 no curso Introdução ao Desenvolvimento Web: HTML, C
 
 ## Exercício
 
-- Organizando Cubos: solução preparada em [terceira-atividade](terceira-atividade). Publicação no fórum e marcação da aula aguardam confirmação.
+- Organizando Cubos: [solução no GitHub](terceira-atividade), [resposta publicada no fórum](https://plataforma.maisrobotic.com.br/forum/496) e aula marcada como concluída em 04/11/2026, após confirmação do envio.
 
 ## Aulas em vídeo ainda sem marcação de conclusão
 
